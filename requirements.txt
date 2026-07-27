@@ -57,4 +57,4 @@ pytest==9.1.1
 # Python 3.14 on Windows currently attempts a local C build that requires
 # Microsoft C++ Build Tools. The project already contains a pure Python regex
 # fallback, so skip this package on Python 3.14 and newer.
-mwparserfromhell>=0.7,<1.0; python_version < "3.14"
+mwparserfromhell>=0.7.2,<1.0; python_version < "3.14"
