@@ -42,7 +42,7 @@ PyYAML==6.0.3
 requests==2.34.2
 six==1.17.0
 sympy==1.14.0
-tqdm==4.69.0
+tqdm==4.69.1
 typing_extensions==4.16.0
 tzdata==2026.3
 urllib3==2.7.0
