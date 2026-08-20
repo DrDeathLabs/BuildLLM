@@ -19,7 +19,7 @@ datasets==5.0.0
 dill==0.4.1
 filelock==3.32.0
 frozenlist==1.8.0
-fsspec==2026.4.0
+fsspec==2026.6.0
 h11==0.16.0
 hf-xet==1.5.2
 httpcore==1.0.9
